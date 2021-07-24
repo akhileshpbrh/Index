@@ -1,1 +1,1 @@
-{"first": {"text.txt": ["0-0"], "New folder\\text.txt": ["0-1"], "_total_size": 4827}, "aaaa": {"New Text Document - Copy.txt": ["0-2"], "New Text Document.txt": ["0-3"], "_total_size": 206486}, "abc": {"_total_size": 0}}
+{"first": {"text.txt": ["0-0"], "New folder\\text.txt": ["0-1"], "_total_size": 4827}, "aaaa": {"New Text Document - Copy.txt": ["0-2"], "New Text Document.txt": ["0-3"], "_total_size": 206486}, "abc": {"_total_size": 0}, "lasttestabc": {"abc.txt": ["0-4"], "_total_size": 5}}
